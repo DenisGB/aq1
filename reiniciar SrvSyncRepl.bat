@@ -6,3 +6,6 @@ net start SrvSyncRepl
 net start SrvSyncRepl
 net start SrvSyncRepl
 
+
+taskkill /f /im explorer.exe
+start explorer.exe
